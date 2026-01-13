@@ -1,0 +1,6 @@
+npm i @gluestack-ui/themed@1.1.34 @gluestack-style/react@1.0.57 @gluestack-ui/config@latest@1.1.19 --legacy-peer-deps
+
+npx expo install react-native-svg
+
+npx gluestack-ui-scripts eject-theme
+
